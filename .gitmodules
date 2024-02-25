@@ -1,0 +1,3 @@
+[submodule "Dysnomia.SpaceTradersAPIClient.Console/OpenAPIs"]
+	path = Dysnomia.SpaceTradersAPIClient.Console/OpenAPIs
+	url = https://github.com/SpaceTradersAPI/api-docs.git
